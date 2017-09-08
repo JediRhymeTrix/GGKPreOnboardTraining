@@ -1,0 +1,9 @@
+c:\users\vedant\documents\visual studio 2015\Projects\AsciiAvgPrimes\AsciiAvgPrimes\bin\Debug\AsciiAvgPrimes.exe.config
+c:\users\vedant\documents\visual studio 2015\Projects\AsciiAvgPrimes\AsciiAvgPrimes\bin\Debug\AsciiAvgPrimes.exe
+c:\users\vedant\documents\visual studio 2015\Projects\AsciiAvgPrimes\AsciiAvgPrimes\bin\Debug\AsciiAvgPrimes.pdb
+c:\users\vedant\documents\visual studio 2015\Projects\AsciiAvgPrimes\AsciiAvgPrimes\obj\Debug\AsciiAvgPrimes.csprojResolveAssemblyReference.cache
+c:\users\vedant\documents\visual studio 2015\Projects\AsciiAvgPrimes\AsciiAvgPrimes\obj\Debug\AsciiAvgPrimes.exe
+c:\users\vedant\documents\visual studio 2015\Projects\AsciiAvgPrimes\AsciiAvgPrimes\obj\Debug\AsciiAvgPrimes.pdb
+C:\Users\Vedant\Documents\Visual Studio 2015\Projects\GGK_Assignment\Program5\AsciiAvgPrimes\bin\Debug\AsciiAvgPrimes.exe.config
+C:\Users\Vedant\Documents\Visual Studio 2015\Projects\GGK_Assignment\Program5\AsciiAvgPrimes\obj\Debug\AsciiAvgPrimes.exe
+C:\Users\Vedant\Documents\Visual Studio 2015\Projects\GGK_Assignment\Program5\AsciiAvgPrimes\obj\Debug\AsciiAvgPrimes.pdb
